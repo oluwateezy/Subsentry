@@ -1,6 +1,6 @@
 # Subsentry
 # What the product does
-An app that tracks all your monthly and yearly subscriptions (like Netflix, Spotify, or work tools) in one place.
+An app that tracks all your monthly and yearly subscriptions (like Netflix, Spotify, or work tools) in one place. The Subsentry MVP is designed to solve the problem of subscription fatigue and financial leakage by providing a single source of truth for all recurring payments.
 # Why It Matters
 People forget what they pay for. This leads to wasted money, unexpected charges when renewals hit, and general financial stress because they don't know where their money is going every month. The goal is to give people total clarity and control over their recurring payments so they never pay for something they don't use.
 # Who Is It For
